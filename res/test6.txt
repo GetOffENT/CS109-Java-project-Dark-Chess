@@ -1,0 +1,64 @@
+16 26 11 14 20 26 25 23 25 26 13 23 22 16 15 21 24 22 12 26 24 15 11 13 10 26 14 12 16 16 16 21 
+Reversal BLACK 4 2 true
+Reversal RED 0 3 true
+Reversal BLACK 3 1 true
+Reversal RED 6 2 true
+Reversal BLACK 5 1 true
+Reversal RED 2 3 true
+Reversal BLACK 4 1 true
+Reversal RED 2 2 true
+Eat BLACK 4 1 5 1 0 1
+Reversal RED 2 1 true
+Move BLACK 3 1 4 1 0 1
+Reversal RED 7 2 true
+Reversal BLACK 3 0 true
+Reversal RED 5 3 true
+Reversal BLACK 4 3 true
+Reversal RED 6 1 true
+Reversal BLACK 5 0 true
+Reversal RED 0 0 true
+Reversal BLACK 0 1 true
+Reversal RED 3 3 true
+Eat BLACK 0 1 0 3 0 31
+Move RED 0 0 0 1 0 31
+Eat BLACK 0 3 0 1 0 32
+Reversal RED 5 2 true
+Eat BLACK 0 1 2 1 0 37
+Eat RED 2 2 2 1 5 37
+Reversal BLACK 1 2 true
+Move RED 2 1 3 1 5 37
+Move BLACK 1 2 2 2 5 37
+Reversal RED 2 0 true
+Reversal BLACK 3 2 true
+Move RED 2 0 2 1 5 37
+Move BLACK 2 2 1 2 5 37
+Eat RED 3 3 3 2 6 37
+Reversal BLACK 1 3 true
+Eat RED 3 2 4 2 11 37
+Reversal BLACK 1 1 true
+Eat RED 5 2 1 2 16 37
+Reversal BLACK 1 0 true
+Eat RED 2 3 1 3 17 37
+Move BLACK 1 1 0 1 17 37
+Move RED 6 2 5 2 17 37
+Eat BLACK 5 1 6 1 17 42
+Eat RED 4 2 4 1 22 42
+Reversal BLACK 4 0 true
+Move RED 4 1 4 2 22 42
+Eat BLACK 4 0 3 0 22 47
+Move RED 3 1 4 1 22 47
+Move BLACK 3 0 3 1 22 47
+Move RED 2 1 1 1 22 47
+Eat BLACK 3 1 4 1 22 52
+Eat RED 1 2 1 0 23 52
+Move BLACK 6 1 5 1 23 52
+Eat RED 1 0 6 0 28 52
+Reversal BLACK 7 0 true
+Eat RED 1 1 0 1 29 52
+Eat BLACK 7 0 6 0 29 57
+Move RED 1 3 1 2 29 57
+Reversal BLACK 6 3 true
+Move RED 0 1 0 0 29 57
+Reversal BLACK 7 3 true
+Move RED 7 2 6 2 29 57
+Eat BLACK 7 3 6 3 29 58

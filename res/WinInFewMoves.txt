@@ -1,0 +1,11 @@
+16 23 14 21 26 21 22 16 13 22 16 24 16 26 14 22 26 15 16 20 11 23 15 24 10 12 11 13 26 12 26 25
+Reversal BLACK 1 2 true
+Eat RED 1 2 3 2 30 0
+Reversal BLACK 5 0 true
+Eat RED 3 2 3 0 40 0
+Reversal BLACK 5 2 true
+Eat RED 3 0 5 0 50 0
+Reversal BLACK 7 2 true
+Eat RED 5 0 5 2 55 0
+Reversal BLACK 6 2 true
+Eat RED 5 2 7 2 60 0

@@ -1,0 +1,4 @@
+sound/王者荣耀 - 入世.wav
+sound/新棋子音乐2.WAV
+imgs/钟1.jpg
+imgs/试试1.jpg

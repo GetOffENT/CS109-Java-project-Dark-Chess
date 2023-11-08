@@ -1,0 +1,8 @@
+25 13 11 16 13 15 25 21 15 16 26 20 12 22 16 23 24 22 26 16 24 23 26 26 21 16 14 10 11 12 14 26 
+Reversal BLACK 2 3 true
+Reversal RED 3 2 true
+Reversal BLACK 2 1 true
+Reversal RED 3 0 true
+Reversal BLACK 4 1 true
+Reversal RED 4 2 true
+Reversal BLACK 5 3 true
